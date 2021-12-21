@@ -1,0 +1,9 @@
+para incializar un proyecto con node 
+npm init -y
+------------------------------------------------------------------------------------------------------
+para instalar webpack como dependecia de desarrollo 
+npm i webpack webpack-cli -D
+-------------------------------------------------------------------------------------------------------
+instalar lodash para las caracteristicas nuevas de javascript moderno
+npm i lodash-es
+------------------------------------------------------------------------------------------------------
